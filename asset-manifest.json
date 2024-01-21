@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/onestop-commodities/static/css/main.f855e6bc.css",
+    "main.css": "/onestop-commodities/static/css/main.2a5a466c.css",
     "main.js": "/onestop-commodities/static/js/main.33c5da2a.js",
     "index.html": "/onestop-commodities/index.html",
-    "main.f855e6bc.css.map": "/onestop-commodities/static/css/main.f855e6bc.css.map",
+    "main.2a5a466c.css.map": "/onestop-commodities/static/css/main.2a5a466c.css.map",
     "main.33c5da2a.js.map": "/onestop-commodities/static/js/main.33c5da2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
+    "static/css/main.2a5a466c.css",
     "static/js/main.33c5da2a.js"
   ]
 }
