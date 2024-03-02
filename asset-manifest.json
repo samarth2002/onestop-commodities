@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/onestop-commodities/static/css/main.2a5a466c.css",
-    "main.js": "/onestop-commodities/static/js/main.33c5da2a.js",
+    "main.css": "/onestop-commodities/static/css/main.5c812dfb.css",
+    "main.js": "/onestop-commodities/static/js/main.7b27efc6.js",
     "index.html": "/onestop-commodities/index.html",
-    "main.2a5a466c.css.map": "/onestop-commodities/static/css/main.2a5a466c.css.map",
-    "main.33c5da2a.js.map": "/onestop-commodities/static/js/main.33c5da2a.js.map"
+    "main.5c812dfb.css.map": "/onestop-commodities/static/css/main.5c812dfb.css.map",
+    "main.7b27efc6.js.map": "/onestop-commodities/static/js/main.7b27efc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a5a466c.css",
-    "static/js/main.33c5da2a.js"
+    "static/css/main.5c812dfb.css",
+    "static/js/main.7b27efc6.js"
   ]
 }
