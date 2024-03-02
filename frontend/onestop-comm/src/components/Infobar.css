@@ -1,0 +1,35 @@
+/* Infobar.css */
+.Infobar {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.Infobar h2 {
+    margin-top: 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.Infobar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Infobar ul ul {
+    margin-top: 10px;
+}
+
+.Infobar li {
+    margin: 5px 0;
+}
+
+.Infobar a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.Infobar a:hover {
+    text-decoration: underline;
+}

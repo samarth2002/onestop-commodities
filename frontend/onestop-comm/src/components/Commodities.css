@@ -1,0 +1,26 @@
+/* Commodities.css */
+.Commodities {
+    display: flex;
+    /* Use flexbox to arrange items in a row */
+    flex-wrap: wrap;
+    /* Allow items to wrap to the next line if needed */
+}
+
+.Commodities h2 {
+    width: 100%;
+    /* Make the heading span the full width */
+}
+
+.Commodity {
+    flex: 0 0 25%;
+    /* Each commodity occupies 25% of the container width */
+    padding: 10px;
+    /* Add some padding around each commodity */
+    box-sizing: border-box;
+    /* Include padding and border in the element's total width and height */
+}
+
+/* Adjust the styles for the commodity button as needed */
+.Commodity button {
+    width: 100%;
+}
